@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Really cool blog about ... something"
+title: "A Programmer's Perspective"
+author: "Woo Jia Hao"
+description: "My personal blog where I share my personal thoughts and progress on programming here."
 lang: "en"
 
 # Jekyll settings
@@ -15,7 +15,7 @@ post_footer: true            # show previous and next links at the end of each p
 date_format: "%B %d, %Y"     # see http://shopify.github.io/liquid/filters/date/
 
 # Theme settings
-dark_theme: false            # enable dark mode
+dark_theme: true            # enable dark mode
 dark_header: false           # keep the header dark
 
 navigation:                  # (optional) site navigation in the header
@@ -23,9 +23,9 @@ navigation:                  # (optional) site navigation in the header
   - README.md
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
-  envelope: "mailto:niklasbuschmann@users.noreply.github.com"
-  github: "https://github.com/niklasbuschmann/contrast"
-  rss: "/contrast/feed.xml"
+  # envelope: "mailto:niklasbuschmann@users.noreply.github.com"
+  github: "https://github.com/woojiahao"
+  # rss: "/contrast/feed.xml"
 
 comments:                    # embed disqus or isso comments
 #  disqus: ""
