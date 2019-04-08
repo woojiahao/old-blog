@@ -20,6 +20,7 @@ dark_header: false           # keep the header dark
 
 navigation:                  # (optional) site navigation in the header
   - index.html
+  - about.md
   - README.md
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
